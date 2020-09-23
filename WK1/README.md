@@ -1,4 +1,6 @@
 # CubeEscape
+- /CubeEscape 为游戏工程文件夹
+- /Build 中有CubeEscape.exe
 ## 游戏目标
 
 移出带有白色标记的方块。
