@@ -6,3 +6,8 @@
 - /HW2-3/Build 为打包文件夹
 - 可直接运行Build.exe
 
+# Playmaker
+
+- 使用playmaker 制作生活行为状态机框架。
+
+- /Playmaker-States 为Unity工程文件夹
