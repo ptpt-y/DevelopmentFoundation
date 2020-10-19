@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-D:/SCHOOL/IMDT/2020Fall/开发/05/Build/pty-Material-Texture.exe
+D:/SCHOOL/IMDT/DevelopmentFoundation/WK5/Build/pty-Material-Texture.exe
 SceneListBegin?
 Assets/Scenes/SampleScene.unity
 SceneListEnd?
