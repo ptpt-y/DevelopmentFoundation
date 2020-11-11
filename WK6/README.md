@@ -4,7 +4,7 @@
 - 粒子特效：
   - 角色对门进行攻击时的粒子特效（盾和剑各有一个粒子特效）
   - 武器的拖尾效果
-- 工程文件夹：/HW6_animation_pty
-  - 作业场景和其他内容在/HW6_animation_pty/Assets/Homework中
-- /pty_animation文件夹为打包文件夹
+- 工程文件夹：/pty_animation
+  - 作业场景和其他内容在/pty_animation/Assets/Homework中
+- /HW6_animation_pty文件夹为打包文件夹
 
