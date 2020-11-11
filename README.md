@@ -6,3 +6,5 @@ For IMDT-Development-Foundation Class, 2020Fall
 - [x] 03.数学和物理基础【A】：[实现球与围栏的碰撞](https://github.com/ptpt-y/DevelopmentFoundation/tree/master/WK3)
 - [x] 04.模型技术【A】：[完成一个模型的制作与编辑](https://github.com/ptpt-y/DevelopmentFoundation/tree/master/WK4)
 - [x] 05.材质和贴图【A】：[给Demo中的物体创建合适的材质](https://github.com/ptpt-y/DevelopmentFoundation/tree/master/WK5)
+- [x] 06.动画系统【A】：[实现一个机关动画](https://github.com/ptpt-y/DevelopmentFoundation/tree/master/WK6)
+- [x] 07.粒子特效【B】：[游戏中的粒子特效系统分析](https://docs.qq.com/doc/DR2NkS1BEbGdjRFBW)
