@@ -8,3 +8,5 @@ For IMDT-Development-Foundation Class, 2020Fall
 - [x] 05.材质和贴图【A】：[给Demo中的物体创建合适的材质](https://github.com/ptpt-y/DevelopmentFoundation/tree/master/WK5)
 - [x] 06.动画系统【A】：[实现一个机关动画](https://github.com/ptpt-y/DevelopmentFoundation/tree/master/WK6)
 - [x] 07.粒子特效【B】：[游戏中的粒子特效系统分析](https://docs.qq.com/doc/DR2NkS1BEbGdjRFBW)
+- [x] 08.音频技术【A】：[给demo视频重新配置音频](https://github.com/ptpt-y/DevelopmentFoundation/tree/master/WK8)
+- [x] 09.网络技术【B】：[网络技术分析](https://docs.qq.com/doc/DR3ZyWXpUVEFRUmNK)
